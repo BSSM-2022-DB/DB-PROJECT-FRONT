@@ -37,7 +37,7 @@ const Header = () => {
                     <LineList href="/support" onClick={() => setLine("support")}>서폿</LineList>
                 </Header>
             </div>
-    );
+            );
 };
 
 export default Header;

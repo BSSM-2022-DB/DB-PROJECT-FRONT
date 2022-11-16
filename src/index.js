@@ -32,7 +32,12 @@ root.render(
                 <Header />
                 <MainContents data=<AxEx line="미드" /> />
             </Provider>
+<<<<<<< HEAD
         </StrictMode>
 );
+=======
+            </StrictMode>
+            );
+>>>>>>> 8a4d5aeebb3756f3f616e0655e60172fd20c501a
 
 reportWebVitals();

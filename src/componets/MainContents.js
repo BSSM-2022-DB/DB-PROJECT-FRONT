@@ -5,7 +5,7 @@ const MainContents = (props) => {
             <div>
                 {propsData}
             </div>
-    );
+            );
 }
 
 export default MainContents
